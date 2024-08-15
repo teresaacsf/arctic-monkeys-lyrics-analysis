@@ -45,30 +45,28 @@ Results will include sentiment scores, word frequencies, and other key insights.
 
 # Key Insights
 1. Night vs. Day Themes:
+
 Night Songs: The analysis identifies the thematic focus of songs categorized as "night," often reflecting introspective or darker moods. These songs generally feature lyrics that delve into personal struggles, existential themes, or complex emotions.
 Day Songs: In contrast, "day" songs tend to be more upbeat or reflective of positive, everyday experiences. The lyrical content often includes themes of optimism, love, or light-heartedness.
 
 2. Top Words and Their Frequencies:
+
 High Frequency Words: Common terms such as "you," "and," "I," and "it" dominate the lyrics, highlighting the central focus on personal relationships and introspection. The prominence of words like "verse" and "chorus" indicates a structural emphasis in the songs.
 Thematic Keywords: Words like "your," "me," "when," and "like" suggest a strong focus on personal connections and emotional experiences, aligning with the themes of both "night" and "day" songs.
 
 3. Sentiment Analysis by Album:
 
 Tranquility Base Hotel & Casino: This album exhibits the highest overall positive sentiment, reflecting a more reflective and possibly introspective tone, with a compound sentiment score of 6.29.
-
 Whatever People Say I Am, That’s What I’m Not: The sentiment here is also positive (4.72), indicating a generally upbeat or hopeful tone in the lyrics.
-
 Suck It and See - Single: Shows a notable drop in sentiment (0.9952), suggesting a mix of moods or more nuanced emotional content.
-
 AM and Humbug: These albums display a more negative sentiment (-0.46 and -6.16, respectively), indicating that the lyrics may explore more challenging or somber themes.
 
 4. Sentiment Comparison:
 
 Night Sentiment: Songs categorized as "night" have a lower average sentiment score (3.29) compared to "day" songs, reflecting their often darker or more introspective nature.
-
 Day Sentiment: Songs categorized as "day" exhibit a higher average sentiment score (10.90), highlighting their generally more positive or uplifting content.
 
 5. Patterns and Trends:
-Overall Sentiment Trends: The sentiment scores suggest that Arctic Monkeys' lyrics span a wide emotional range, with some albums leaning towards positivity and others exploring darker themes.
 
+Overall Sentiment Trends: The sentiment scores suggest that Arctic Monkeys' lyrics span a wide emotional range, with some albums leaning towards positivity and others exploring darker themes.
 Frequency of Themes: The recurrence of certain words and themes provides insight into recurring motifs in the band's music, such as personal relationships, self-reflection, and existential contemplation.
